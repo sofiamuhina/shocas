@@ -1,8 +1,7 @@
 {
-  "name": "sedona",
+  "name": "shocas",
   "version": "0.1.0",
   "private": true,
-  "description": "Личный проект «Седона» от HTML Academy",
   "devDependencies": {
     "@htmlacademy/editorconfig-cli": "1.x",
     "autoprefixer": "6.7.x",
@@ -15,7 +14,7 @@
     "grunt-contrib-watch": "1.0.0",
     "grunt-csso": "^2.2.0",
     "grunt-postcss": "0.8.0",
-    "grunt-sass": "2.0.0",
+    "grunt-sass": "^2.0.0",
     "grunt-svgmin": "^4.0.0",
     "grunt-svgstore": "^1.0.0",
     "jquery": "^3.2.1",

@@ -1,0 +1,37 @@
+.header {
+    height: 893px;
+    width: 100%;
+    background-color: $header_background;
+}
+
+.header__center {
+    width: 1000px;
+    margin: auto;
+}
+
+.header__info {
+    height: 200px;
+    width: 303px;
+    margin-top: 223px;
+}
+
+.header__name {
+    width: 303px;
+  height: 79px;
+  font-family: Montserrat;
+  font-size: 64px;
+  font-weight: bold;
+  letter-spacing: 4px;
+  color: #202020;
+}
+
+.header__slogan {
+    width: 400px;
+  height: 34px;
+  opacity: 0.3;
+  font-family: Montserrat;
+  font-size: 28px;
+  font-weight: 600;
+  letter-spacing: 1.4px;
+  color: #202020;
+}
